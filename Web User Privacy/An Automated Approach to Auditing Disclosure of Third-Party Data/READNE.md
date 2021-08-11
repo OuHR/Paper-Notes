@@ -6,7 +6,11 @@ Timothy Libert
 Reuters Institute for the Study of Journalism Department of Computer Science University of Oxford Oxford, United Kingdom
 
 ## Abstract
-网络隐私信息的一种主要监管模式是“notice and choice”，会通知用户搜集的数据内容，并提供控制是否搜集的选项。为了检测这种方法的有效性，本文对网站隐私政策中第三方数据收集披露进行大规模审计。分析了100w个网站的数据流，审计超过20w个网站的隐私政策。
+A dominant regulatory model for web privacy is “notice and choice”.In this model, users are notified of data collection and provided
+with options to control it. To examine the efficacy of this approach,this study presents the first large-scale audit of disclosure of thirdparty data collection in website privacy policies. Data flows on one million websites are analyzed and over 200,000 websites’ privacy policies are audited to determine if users are notified of the names of the companies which collect their data. Policies from 25 prominent third-party data collectors are also examined to provide deeper insights into the totality of the policy environment. Policies are additionally audited to determine if the choice expressed by the “Do Not Track” browser setting is respected.
+
+Third-party data collection is wide-spread, but fewer than 15% of attributed data flows are disclosed. The third-parties most likely
+to be disclosed are those with consumer services users may be aware of, those without consumer services are less likely to be mentioned. Policies are difficult to understand and the average time requirement to read both a given site’s policy and the associated third-party policies exceeds 84 minutes. Only 7% of first-party site policies mention the Do Not Track signal, and the majority of such mentions are to specify that the signal is ignored. Among thirdparty policies examined, none offer unqualified support for the Do Not Track signal. Findings indicate that current implementations of “notice and choice” fail to provide notice or respect choice.
 
 ## Keywords
 Web Privacy; Web Security; Internet Policy; Internet Regulation
