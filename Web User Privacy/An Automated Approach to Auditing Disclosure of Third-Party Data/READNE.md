@@ -10,3 +10,6 @@ Reuters Institute for the Study of Journalism Department of Computer Science Uni
 
 ## Keywords
 Web Privacy; Web Security; Internet Policy; Internet Regulation
+
+## Paper Note
+Link: https://ouhr.github.io/2021/08/09/my-first-blog/
