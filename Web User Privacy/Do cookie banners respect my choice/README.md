@@ -10,4 +10,4 @@ As a result of the GDPR and the ePrivacy Directive, European users encounter coo
 Privacy; GDPR; Consent; Web measurement
 
 ## Paper Note
-Link: 
+Link: https://ouhr.github.io/2021/08/12/PaperNote20210812/
